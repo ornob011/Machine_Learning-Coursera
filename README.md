@@ -1,3 +1,3 @@
-# Machine_Learning-Coursera
+# Machine Learning-Coursera
 
 ## Instructor-Andrew Ng
